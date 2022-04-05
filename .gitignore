@@ -1,5 +1,2 @@
-# Default ignored files
-/shelf/
-.idea
-JavaUdemyProject.iml
-
+!/.idea/
+!/JavaUdemyProject.iml
