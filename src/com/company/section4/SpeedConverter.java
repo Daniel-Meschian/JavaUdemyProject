@@ -2,6 +2,11 @@ package com.company.section4;
 
 public class SpeedConverter {
 
+    public static void main(String[] args) {
+        printConversion(120);
+
+    }
+
     public static long toMilesPerHour(double kilometersPerHour) {
         if (kilometersPerHour < 0){
             return -1;
