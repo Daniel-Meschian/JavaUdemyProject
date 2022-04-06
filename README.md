@@ -1,3 +1,3 @@
 # JavaUdemyProject
 
-Hy there!
+Hi there!
