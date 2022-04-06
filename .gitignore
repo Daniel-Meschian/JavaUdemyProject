@@ -1,2 +1,4 @@
-!/.idea/
-!/JavaUdemyProject.iml
+# Intellij
+.idea/
+*.iml
+*.iws
