@@ -1,4 +1,4 @@
-package com.company.section6.Wall;
+package com.company.section6.wall;
 
 public class WallApp {
     public static void main(String[] args) {
